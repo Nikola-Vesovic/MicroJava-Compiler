@@ -1,4 +1,4 @@
-**MicroJava Compiler**
+# MicroJava Compiler
 
 A compiler for the MicroJava programming language, implemented as a university project for the Programming Translators 1 course at the School of Electrical Engineering, University of Belgrade.
 
