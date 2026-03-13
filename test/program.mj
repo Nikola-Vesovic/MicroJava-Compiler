@@ -1,0 +1,98 @@
+program Program
+
+const int pi = 3, g = 11;
+char x, y[];
+
+const bool t = true;
+{
+
+	void main() int a, b[]; int x[], y; char eol; {
+		
+		//a = b;
+		//a = 2 + b;
+		//a = 2 + b*2;
+		//a = 3 + b[2]*2;
+		//g = 3;
+	
+		//a = 3;
+		//x = new int[5];
+		//x = a;
+		//x[2] = a;
+		//x[3] = x[4];
+		//x = null;
+		
+		//x++;
+		//x[2]--;
+		//pi--;
+		//a++;
+		//eol++;
+		
+		//read(a);
+		//read(eol);
+		//read(x);
+		//read(x[2]);
+		
+		//print(x);
+		//print(x[2]);
+		
+		//print(1, 4);
+		//print(a, 4);
+		//print(eol, 4);
+		//print(false, 4);
+
+		//print(x, 4);
+		//print(x[2], 4);
+		//read(x[2]);
+		//m2();
+		//if (b != null) a++;
+		//return;
+	}
+
+	int t1(int x) { return 1; }
+	bool m1(int fp1) {
+	
+		fp1 = t1(fp1);
+		//main();
+		//m2();
+		return true;
+	}
+	
+	int m2() int a; bool b; int i; int j; {
+		return 1;
+		// a = m1();
+		//b = m1();
+		for(i = 0; i < 3; i++){
+			for(i = 0; i < 3; i++) { 
+				continue;
+			}
+			break;
+		}
+		if(true || b && a < 2) a++;
+	}
+	
+	int f1(int x) int fp1; {
+		//main(); 
+		return x; 
+	}
+	
+	int f2(int x, bool b) int a; { 
+		a = f1(x);
+		//return f1(x);
+		//f2();
+		return a;
+	}
+	
+	//int f3() { 
+	
+		//f2(f2(1, false), true);
+		//return 1; 
+	//}
+	int f4(int x) { return x; }
+	int f5(int x, bool b) {
+		 
+		 x = f1(1);
+		 //return 1;
+		return f4(x) + 1; 
+	}
+
+}
